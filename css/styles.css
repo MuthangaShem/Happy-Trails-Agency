@@ -1,0 +1,17 @@
+h2.tropical{
+	color: #f7325e;
+}
+.tropical{
+	color: #7dc410;
+}
+h2.popular{
+	color: green;
+}
+.popular{
+	color: brown;
+}
+body {
+	background-image: url(https://images.pexels.com/photos/221471/pexels-photo-221471.jpeg?h=350&auto=compress&cs=tinysrgb);
+	background-repeat: no-repeat;
+    background-size: 100%;
+}
